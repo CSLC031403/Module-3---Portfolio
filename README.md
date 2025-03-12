@@ -25,4 +25,6 @@ Data Science Certificates:
 [Data Science Coursera](Coursera Cert/DataSci-Coursera 357QYR0KHS2G.pdf)
 [Tools for Data Science](Coursera Cert/Tools for Data Science.pdf)
 [Introduction to Data Science](Coursera Cert/Databases and SQL for Data Science with Python.pdf)
-[Data Science Methodology](Coursera Cert/Data Science Methodology specialization Coursera LVD2WHEZQGR1.pdf)
+[Data Science Methodology](Module-3---Portfolio/Coursera Cert
+/Data Science Methodology specialization Coursera LVD2WHEZQGR1.pdf
+)
