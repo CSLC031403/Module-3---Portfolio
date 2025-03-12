@@ -1,10 +1,10 @@
 # Module-3---Portfolio
 
-#Abiut Me!
+# About Me!
 
 Hi, I'm Charles Samuel Chiongson!!👋
 
-Welcome to my GitHub portfolio! Here, you'll find my Projects and Certificates
+Welcome to my GitHub portfolio! Here, you'll find my Projects and Certificates here.
 
 ## Projects Showcase
 
@@ -19,3 +19,10 @@ and the potential ransom payment further raise ethical questions about PowerScho
 - **Description:**
 This poster highlights the content of the Research Document.
 
+### Certificates
+Data Science Certificates:
+
+- [Data Science Coursera](Coursera Cert/DataSci-Coursera 357QYR0KHS2G.pdf)
+- [Tools for Data Science](Coursera Cert/Tools for Data Science.pdf)
+- [Introduction to Data Science](Coursera Cert/Databases and SQL for Data Science with Python.pdf)
+- [Data Science Methodology](Coursera Cert/Data Science Methodology specialization Coursera LVD2WHEZQGR1.pdf)
